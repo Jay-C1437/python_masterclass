@@ -6,9 +6,16 @@
 # exponentiation
 # floor_division
 
-# sum
-x = 10
-p = 3.12
+# subtraction
+m = 21
+b = 45
+# print(m - b)
 
-answer = x + p
-print(round(answer, 3))
+
+# multiplication
+z = 134
+k = 54
+#print(z * k)
+
+# division
+print(z / b)
